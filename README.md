@@ -1,4 +1,7 @@
-# Antigravity Quota Viewer
+IF model_A fails
+→ use model_B
+IF model_B fails
+→ use model_C# Antigravity Quota Viewer
 
 Internal tool for viewing and managing Antigravity quotas.
 
